@@ -1,5 +1,5 @@
 # sinoptik-pytelegrambot
-## bot.py:
+## config.py:
 ```
 bot = telebot.TeleBot('Telegram your token')
 ```

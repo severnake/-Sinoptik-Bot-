@@ -26,4 +26,4 @@ except mysql.connector.Error as err:
 cursor = db.cursor()
 
 # Telegram token
-bot = telebot.TeleBot('1212590455:AAEUeOG4P9Xtq0yyKn-5H-Fv_olttERQuI4', parse_mode='HTML')
+bot = telebot.TeleBot('Telegram your token', parse_mode='HTML')
